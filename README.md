@@ -3,8 +3,8 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of strings. 
 
 ## Method
 
-See the no_oggy.cs
+Use the RemoveAll() method with Lamda function.
