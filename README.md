@@ -7,6 +7,4 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+We could remove all the strings starting with "oggy" from the list using the RemoveAll() method with Lambda function.
