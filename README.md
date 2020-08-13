@@ -6,5 +6,3 @@
 This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
-
-lambda function with removeall() function.
