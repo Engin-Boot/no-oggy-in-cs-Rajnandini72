@@ -1,9 +1,3 @@
-# Collections Exercise
+## Collections
 
-## Intention
-
-This program needs to remove strings containing 'oggy' from a list of strings. 
-
-## Method
-
-Use the RemoveAll() method with Lamda function.
+# Remove strings starting with "oggy" from the list.
